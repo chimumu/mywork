@@ -1,0 +1,2 @@
+# mywork
+这是一个TELNET小工具可以实现进行批量进行TELNET端口功能
