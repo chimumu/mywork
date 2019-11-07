@@ -1,2 +1,5 @@
 # mywork
 这是一个TELNET小工具可以实现进行批量进行TELNET端口功能
+其中TK.py为主程序
+telnet为进行TELNET功能的代码
+ll为清空文件功能
