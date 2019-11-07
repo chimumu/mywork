@@ -12,7 +12,7 @@ def lighter():
         elif count > 10:
             count =0  # 清零重新计数
         else:  # 红灯
-            event.clear()  # 清空标志位
+            event.clear()  # 清空标志
             print("\033[41;1m 红灯亮\033[0m")
 
         time.sleep(1)
