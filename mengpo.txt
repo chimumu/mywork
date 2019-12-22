@@ -1,0 +1,10 @@
+python-dateutil-2.8.1      |             py_0         224 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ pamela-1.0.0               |             py_0          11 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ certipy-0.1.3              |             py_0          18 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ oauthlib-3.1.0             |             py_0          88 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ jinja2-2.10.3              |             py_0          95 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ prometheus_client-0.7.1    |             py_0          42 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ decorator-4.4.1            |             py_0          13 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ python-editor-1.0.4        |             py_0          11 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ alembic-1.3.1              |             py_0         107 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+ mako-1.1.0                 |             py_0          60 KB  https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
