@@ -23,7 +23,7 @@ def key():
         read()
         readtxt()
         xx=f3.read()
-        print(xx)
+        print()
 
         
 def  writetxt():#生成数据
